@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Machine Learning A-Z",
+    "platform": "Udemy",
+    "skills": ["python", "machine learning", "statistics"],
+    "duration": "10 weeks",
+    "career_paths": ["AI Engineer", "Data Scientist"],
+    "category": "AI"
+  },
+  {
+    "title": "Deep Learning Specialization",
+    "platform": "Coursera",
+    "skills": ["neural networks", "deep learning", "tensorflow"],
+    "duration": "12 weeks",
+    "career_paths": ["AI Engineer", "ML Researcher"],
+    "category": "AI"
+  },
+  {
+    "title": "Web Development Bootcamp",
+    "platform": "Udemy",
+    "skills": ["html", "css", "javascript", "react"],
+    "duration": "14 weeks",
+    "career_paths": ["Frontend Developer", "Full Stack Developer"],
+    "category": "Web Development"
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "platform": "Coursera",
+    "skills": ["network security", "encryption", "risk management"],
+    "duration": "8 weeks",
+    "career_paths": ["Cybersecurity Analyst", "Security Engineer"],
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "AWS Certified Solutions Architect",
+    "platform": "Udemy",
+    "skills": ["aws", "cloud computing", "architecture"],
+    "duration": "6 weeks",
+    "career_paths": ["Cloud Engineer", "Solutions Architect"],
+    "category": "Cloud"
+  }
+]

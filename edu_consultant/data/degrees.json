@@ -1,0 +1,27 @@
+[
+  {
+    "degree": "BS Computer Science",
+    "recommended_skills": ["python", "databases", "algorithms", "statistics", "machine learning"],
+    "possible_careers": ["Software Developer", "Data Scientist", "AI Engineer"]
+  },
+  {
+    "degree": "BS Information Technology",
+    "recommended_skills": ["networking", "databases", "cloud computing", "cybersecurity"],
+    "possible_careers": ["IT Specialist", "System Administrator", "Cloud Engineer"]
+  },
+  {
+    "degree": "BS Software Engineering",
+    "recommended_skills": ["java", "oop", "software design", "testing", "project management"],
+    "possible_careers": ["Software Engineer", "QA Engineer", "Project Manager"]
+  },
+  {
+    "degree": "BS Artificial Intelligence",
+    "recommended_skills": ["python", "machine learning", "deep learning", "data analysis", "statistics"],
+    "possible_careers": ["AI Engineer", "Data Scientist", "Research Scientist"]
+  },
+  {
+    "degree": "BS Cybersecurity",
+    "recommended_skills": ["network security", "cryptography", "ethical hacking", "risk management"],
+    "possible_careers": ["Security Analyst", "Penetration Tester", "Forensics Expert"]
+  }
+]

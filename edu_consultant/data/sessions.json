@@ -1,0 +1,119 @@
+[
+  {
+    "name": "ali",
+    "degree": "BS Computer Science",
+    "interest": "AI",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": [
+      "algorithms",
+      "databases"
+    ],
+    "timestamp": "2025-09-25 23:02:24"
+  },
+  {
+    "name": "ali",
+    "degree": "BS Computer Science",
+    "interest": "AI",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": [
+      "algorithms",
+      "databases"
+    ],
+    "timestamp": "2025-09-25 23:03:04"
+  },
+  {
+    "name": "zbr",
+    "degree": "ai",
+    "interest": "ai",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": [],
+    "timestamp": "2025-09-25 23:16:54"
+  },
+  {
+    "name": "ali",
+    "degree": "BS CS",
+    "interest": "AI",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 00:13:04"
+  },
+  {
+    "name": "talha",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 01:14:38"
+  },
+  {
+    "name": "talha",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:22:25"
+  },
+  {
+    "name": "talha",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:22:50"
+  },
+  {
+    "name": "talha",
+    "degree": "bs cs",
+    "interest": "AI",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:23:01"
+  },
+  {
+    "name": "Ali",
+    "degree": "BS Computer Science",
+    "interest": "AI",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:23:54"
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:24:42"
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "AI",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:26:26"
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": [],
+    "timestamp": "2025-09-26 03:27:09"
+  }
+]

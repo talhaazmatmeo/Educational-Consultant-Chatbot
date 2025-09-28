@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Talha",
+    "degree": "Bs Computer Science",
+    "interest": "Web Dev"
+  },
+  {
+    "name": "talha",
+    "degree": "bs computer science",
+    "interest": "ai"
+  },
+  {
+    "name": "Talha",
+    "degree": "BS Computer Science",
+    "interest": "AI"
+  },
+  {
+    "name": "talha",
+    "degree": "BS Computer Science",
+    "interest": "ai"
+  },
+  {
+    "name": "talha",
+    "degree": "BS COMPUTER SCIENCE",
+    "interest": "AI"
+  },
+  {
+    "name": "talha",
+    "degree": "",
+    "interest": "\f\f\f\f"
+  },
+  {
+    "name": "talha",
+    "degree": "BS COMPUTER SCIENCE",
+    "interest": "AI"
+  },
+  {
+    "name": "ali",
+    "degree": "BS COMPUTER SCIENCE",
+    "interest": "AI"
+  },
+  {
+    "name": "ali",
+    "degree": "BS COMPUTER SCIENCE",
+    "interest": "AI"
+  },
+  {
+    "name": "ali",
+    "degree": "\f",
+    "interest": ""
+  },
+  {
+    "name": "ali",
+    "degree": "BS COMPUTER SCIENCE",
+    "interest": "AI"
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "ai"
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "ai"
+  },
+  {
+    "name": "& C:/Users/PMLS/AppData/Local/Programs/Python/Python313/python.exe e:/edu_consultant/main.py",
+    "degree": "cs",
+    "interest": "ai"
+  },
+  {
+    "name": "ali",
+    "degree": "bs sc",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": []
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": []
+  },
+  {
+    "name": "ali",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [],
+    "skill_gap": []
+  },
+  {
+    "name": "ALi",
+    "degree": "BS Computer Science",
+    "interest": "AI",
+    "recommended_courses": [],
+    "skill_gap": []
+  },
+  {
+    "name": "\u0001\fi",
+    "degree": "BS Computer Science",
+    "interest": "AI",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": [
+      "databases",
+      "algorithms"
+    ]
+  },
+  {
+    "name": "ai",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [
+      "Machine Learning A-Z",
+      "Deep Learning Specialization"
+    ],
+    "skill_gap": []
+  },
+  {
+    "name": "Talha",
+    "degree": "BS CS",
+    "interest": "Web Dev",
+    "recommended_courses": [
+      "Web Development Bootcamp"
+    ],
+    "skill_gap": []
+  },
+  {
+    "name": "Talha",
+    "degree": "BS CS",
+    "interest": "Ai",
+    "recommended_courses": [
+      "AI Fundamentals & Python for Machine Learning",
+      "Deep Learning Specialization",
+      "AI with Google Cloud Platform"
+    ],
+    "skill_gap": [
+      "Data Analysis & Visualization",
+      "Artificial Intelligence/Machine Learning (Increasingly relevant - foundational knowledge is valuable)",
+      "Debugging and Testing",
+      "System Design",
+      "Database Management Systems (SQL, NoSQL)",
+      "Object-Oriented Programming (OOP)",
+      "Data Structures and Algorithms",
+      "Cloud Computing (AWS, Azure, GCP - exposure is beneficial)",
+      "Computer Architecture",
+      "Version Control Systems (Git)",
+      "Cybersecurity Principles (Cryptography, Security Threats, Vulnerability Management - increasingly important)",
+      "Software Development Methodologies (Agile, Waterfall)",
+      "Problem-Solving and Analytical Thinking",
+      "Programming Languages (Python, Java, C++, JavaScript - proficiency in at least two is highly recommended)",
+      "Operating Systems",
+      "Networking Fundamentals"
+    ]
+  },
+  {
+    "name": "talha",
+    "degree": "bs cs",
+    "interest": "ai",
+    "recommended_courses": [
+      "Introduction to Artificial Intelligence with Python",
+      "Deep Learning Specialization",
+      "AI for Everyone"
+    ],
+    "skill_gap": [
+      "Mathematics (Discrete Math, Linear Algebra, Calculus - a foundational understanding is crucial)",
+      "Software Development Methodologies (Agile, Waterfall)",
+      "Problem-Solving and Analytical Skills",
+      "Version Control Systems (Git)",
+      "Cloud Computing (AWS, Azure, GCP - introductory understanding)",
+      "Computer Architecture & Organization",
+      "Debugging and Testing",
+      "System Design (Basic concepts)",
+      "Database Management Systems (SQL, NoSQL)",
+      "Networking Fundamentals (TCP/IP, DNS, HTTP)",
+      "Cybersecurity Principles (Basic security concepts, threats, and mitigation)",
+      "Programming Languages (Python, Java, C++, JavaScript - proficiency in at least two is highly recommended)",
+      "Operating Systems (Windows, Linux, macOS)",
+      "Object-Oriented Programming (OOP)"
+    ]
+  },
+  {
+    "name": "Talha",
+    "degree": "BS CS",
+    "interest": "AI",
+    "recommended_courses": [
+      "Introduction to Artificial Intelligence with Python",
+      "Deep Learning Specialization",
+      "AI for Everyone"
+    ],
+    "skill_gap": [
+      "Data Analysis and Visualization",
+      "Communication (written and verbal)",
+      "Object-Oriented Programming (OOP)",
+      "Problem-Solving and Analytical Skills",
+      "Cybersecurity Principles",
+      "Programming Languages (Python, Java, C++, JavaScript, C#)",
+      "Data Structures and Algorithms",
+      "Database Management Systems (SQL, NoSQL)",
+      "Teamwork",
+      "Software Development Methodologies (Agile, Waterfall)",
+      "Operating Systems",
+      "Software Testing and Debugging",
+      "Version Control Systems (Git)",
+      "Networking Fundamentals",
+      "Cloud Computing (AWS, Azure, GCP)",
+      "Computer Architecture"
+    ]
+  },
+  {
+    "name": "Talha",
+    "degree": "BBA",
+    "interest": "Supply Chain Management",
+    "recommended_courses": [
+      "Supply Chain Fundamentals & Operations",
+      "Advanced Supply Chain Analytics",
+      "Global Supply Chain Management"
+    ],
+    "skill_gap": [
+      "Teamwork & Collaboration",
+      "Negotiation & Communication (Written & Verbal)",
+      "Critical Thinking & Problem Solving",
+      "Financial Accounting & Reporting",
+      "Operations Management",
+      "Ethics & Business Law",
+      "Leadership Skills",
+      "Data Visualization",
+      "Strategic Management",
+      "Human Resource Management",
+      "Business Analytics & Data Interpretation",
+      "Supply Chain Management",
+      "Project Management",
+      "Market Research",
+      "Managerial Accounting",
+      "Corporate Finance",
+      "Digital Marketing",
+      "Sales & Customer Relationship Management (CRM)",
+      "Marketing Principles"
+    ]
+  },
+  {
+    "name": "talha",
+    "degree": "bba",
+    "interest": "supply chain management",
+    "recommended_courses": [
+      "Supply Chain Fundamentals & Logistics",
+      "Supply Chain Optimization with Data Science",
+      "Global Supply Chain Management"
+    ],
+    "skill_gap": [
+      "Teamwork & Collaboration",
+      "Business Communication (Written & Verbal)",
+      "Project Management",
+      "Ethical Decision-Making",
+      "Corporate Finance",
+      "Marketing Principles (Brand Management, Digital Marketing, Market Research)",
+      "Strategic Planning",
+      "Presentation Skills",
+      "Financial Accounting & Reporting",
+      "Operations Management (Supply Chain, Logistics, Process Improvement)",
+      "Data Analysis & Business Intelligence",
+      "Excel Proficiency (Advanced Formulas, Pivot Tables, VBA - beneficial)",
+      "CRM Software (Salesforce, etc.) - *Increasingly important*",
+      "Human Resource Management (Recruitment, Training, Compensation, Employee Relations)",
+      "Problem-Solving & Critical Thinking",
+      "Leadership Skills"
+    ]
+  },
+  {
+    "name": "Talha",
+    "degree": "BSCS",
+    "interest": "AI",
+    "recommended_courses": [],
+    "skill_gap": []
+  }
+]
